@@ -2,18 +2,17 @@
 
 # Site settings
 title: Jekyll Resume
-email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+email: hello@leyankoh.com
+description: Geographer, Data Scientist, Artist
 baseurl: ""
 url: "https://leyankoh.github.io"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+name: Kylie
+job: Graduate Consultant in Intelligent Mobility
+location: Manchester, UK
+languages: data storytelling.
+github_username: leyankoh
+linkedin_username: leyankoh
+email_address: hello@leyankoh.com
 
 # Build settings
 markdown: kramdown

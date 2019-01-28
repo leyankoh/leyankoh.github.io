@@ -1,11 +1,9 @@
--   qualification: BSc(Hons) Computer Programming
-    school: Oxford
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   qualification: MSc Data Science
+    school: King's College London
+    description: I studied databases, statistics, artificial intelligence, machine learning and data mining (amongst other things) here. For my final thesis, I devised a modified clustering algorithm that aggregated spatial analysis, multi-dimensional scaling and spectral clustering to find similar users with histograms created from Foursquare data.
 
--   qualification: A-Level Computing
-    school: Some High School
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   qualification: BA(Hons) Geography
+    school: King's College London
+    description: I specialised in geocomputation and spatial analysis here; projects include clustering for identification of gentrifying areas in London, and modelling public transport accessibility in Singapore using public APIs made available by Singapore's Land Transport Authority
 
--   qualification: A-Level Maths
-    school: Some High School
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
